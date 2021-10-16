@@ -1,0 +1,11 @@
+#include<stdio.h>
+#inckude<math.h>
+int main()
+{
+    int a,b;
+    a=3.1415;
+    b=sin(a);
+    
+    printf("%d",b);
+    return 0;
+}
